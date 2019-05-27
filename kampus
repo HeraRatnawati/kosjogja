@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.372334,
+          -7.765307
+        ]
+      },
+      "properties": {
+        "Instansi": "UGM",
+        "Fakul": "Teknik",
+        "Y": -7.765307,
+        "X": 110.372334,
+        "Jumlah": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.382843,
+          -7.798727
+        ]
+      },
+      "properties": {
+        "Instansi": "UAD",
+        "Fakul": "Psikologi",
+        "Y": -7.798727,
+        "X": 110.382843,
+        "Jumlah": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.358434,
+          -7.807519
+        ]
+      },
+      "properties": {
+        "Instansi": "UWMY",
+        "Fakul": "Teknk",
+        "Y": -7.807519,
+        "X": 110.358434,
+        "Jumlah": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.353291,
+          0.465383
+        ]
+      },
+      "properties": {
+        "Instansi": "UIN SUSQA RIAU",
+        "Fakul": "Psikologi",
+        "Y": 0.465383,
+        "X": 101.353291,
+        "Jumlah": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38753,
+          -7.774701
+        ]
+      },
+      "properties": {
+        "Instansi": "UNY",
+        "Fakul": "Ilmu Pendidikan",
+        "Y": -7.774701,
+        "X": 110.38753,
+        "Jumlah": 1
+      }
+    }
+  ]
+}
