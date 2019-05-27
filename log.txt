@@ -1,0 +1,6 @@
+Warning 6: Normalized/laundered field name: 'Nama Lengkap' to 'Nama Lengk'
+Warning 6: Normalized/laundered field name: 'rumah sakit' to 'rumah saki'
+Warning 6: Normalized/laundered field name: 'Nama Lengkap' to 'Nama Lengk'
+Warning 6: Normalized/laundered field name: 'rumah sakit' to 'rumah saki'
+Warning 6: Normalized/laundered field name: 'Nama Lengkap' to 'Nama Lengk'
+Warning 6: Normalized/laundered field name: 'rumah sakit' to 'rumah saki'
